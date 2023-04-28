@@ -1,0 +1,65 @@
+{
+	"compiler": {
+		"version": "0.8.18+commit.87f61d96"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [
+					{
+						"internalType": "int256",
+						"name": "value",
+						"type": "int256"
+					}
+				],
+				"name": "DisplayResult",
+				"outputs": [
+					{
+						"internalType": "string",
+						"name": "",
+						"type": "string"
+					}
+				],
+				"stateMutability": "pure",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"step_10_Ifelse/IfElse.sol": "ControlStructure"
+		},
+		"evmVersion": "paris",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"step_10_Ifelse/IfElse.sol": {
+			"keccak256": "0x140e96c13eae082eba34240afa795250fedbb55d98317e9af6e25865d1d3eb5a",
+			"license": "SEE LICENSE IN LICENSE",
+			"urls": [
+				"bzz-raw://286cd8dbd434914ca48a892c399670c55510290256b179034053f82556bb0d06",
+				"dweb:/ipfs/QmddchQ26Ddpf5TEtRk7X5VmxmdkH7cG8cEP2LoPjcCGCG"
+			]
+		}
+	},
+	"version": 1
+}

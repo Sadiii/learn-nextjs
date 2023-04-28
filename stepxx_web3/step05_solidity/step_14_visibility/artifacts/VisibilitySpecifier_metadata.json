@@ -1,0 +1,72 @@
+{
+	"compiler": {
+		"version": "0.8.18+commit.87f61d96"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "f1",
+				"outputs": [
+					{
+						"internalType": "string",
+						"name": "",
+						"type": "string"
+					}
+				],
+				"stateMutability": "pure",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "f4",
+				"outputs": [
+					{
+						"internalType": "string",
+						"name": "",
+						"type": "string"
+					}
+				],
+				"stateMutability": "pure",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"step_14_visibility/visibility.sol": "VisibilitySpecifier"
+		},
+		"evmVersion": "paris",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"step_14_visibility/visibility.sol": {
+			"keccak256": "0x82e605bc5363e87bc3c473bbba9675fec3a9a02cb96337460d9a0994ed678ae9",
+			"license": "SEE LICENSE IN LICENSE",
+			"urls": [
+				"bzz-raw://6cdd657c90b486d21eac80ae73999509df19027d2cf948e38d1a6e68fb89463e",
+				"dweb:/ipfs/QmYjSBtyYEyQsxBXbyPtvnD3nCqCbM3S9TfDDTBb5SqbBg"
+			]
+		}
+	},
+	"version": 1
+}

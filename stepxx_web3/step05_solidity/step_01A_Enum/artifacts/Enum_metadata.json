@@ -1,0 +1,59 @@
+{
+	"compiler": {
+		"version": "0.8.18+commit.87f61d96"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "_gender",
+				"outputs": [
+					{
+						"internalType": "enum Enum.gender",
+						"name": "",
+						"type": "uint8"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"step_01A_Enum/Enum.sol": "Enum"
+		},
+		"evmVersion": "paris",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"step_01A_Enum/Enum.sol": {
+			"keccak256": "0x260259f3b458749a2bf51564d3df0eb9c876d2a8066600f0a873e756cb38053f",
+			"license": "SEE LICENSE IN LICENSE",
+			"urls": [
+				"bzz-raw://cdd02a2ef315bba001c2154cbed75b35ade9514e8f1354fc19fee1e7d6bfa6f0",
+				"dweb:/ipfs/QmcVP2cSqKrqgsiAXjHmM1B2YFpanb2kAWsJYA7pk6fhFn"
+			]
+		}
+	},
+	"version": 1
+}
